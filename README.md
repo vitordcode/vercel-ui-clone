@@ -1,26 +1,6 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38364954/88095721-ec065a80-cb6b-11ea-94e4-60703536a028.png" width="200">
-</div>
-
-<p align="center">
-  <i>"Cafés com a cara do Brasil!"</i>  
-</p>
-
-<p align="center">
-  <a href="https://www.origamid.com/">
-    <img alt="Made by Origamid" src="https://img.shields.io/badge/made%20by-Origamid-%237519C1">
-  </a>
-</p>
-
-
-## :bookmark: Sobre
-
-O [Brafé](https://vitordcode.github.io/Brafe/) é uma aplicação Web criado durante o curso CSS Avançado Posicionamento da [Origamid](https://www.origamid.com/).
-
-
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38364954/88096096-82d31700-cb6c-11ea-87d1-b66eab0968c8.png" width="700">
+  <img src="https://user-images.githubusercontent.com/38364954/100108744-e1294280-2e49-11eb-8ffb-3da7e00120ff.png" width="700">
 </div>
 
 ## :rocket: Tecnologias Utilizadas

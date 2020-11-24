@@ -10,6 +10,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- [SASS](https://sass-lang.com/)
 
 
 
@@ -19,7 +20,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  git@github.com:vitordcode/Brafe.git
+  git@github.com:vitordcode/vercel-ui-clone.git
 ```
 
 - ### **Pré-requisitos**
